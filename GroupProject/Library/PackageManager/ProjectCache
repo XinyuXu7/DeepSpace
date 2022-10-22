@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638016318711436505
-    m_Hash: 1408241324
+      ticks: 638020352782850923
+    m_Hash: 4254583043
   m_LockFileStatus:
     m_FilePath: E:/Unity/Project/GroupProject/GroupProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638016318711476342
-    m_Hash: 21601953
+      ticks: 638020352782907663
+    m_Hash: 1261868918
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: E:/Unity/Project/GroupProject/GroupProject/Packages
 m_EditorVersion: 2022.1.18f1c1 (9d2482c1604e)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.17.2
+- packageId: com.unity.collab-proxy@1.17.6
   testable: 0
   isDirectDependency: 1
-  version: 1.17.2
+  version: 1.17.6
   source: 1
-  resolvedPath: E:\Unity\Project\GroupProject\GroupProject\Library\PackageCache\com.unity.collab-proxy@1.17.2
+  resolvedPath: E:\Unity\Project\GroupProject\GroupProject\Library\PackageCache\com.unity.collab-proxy@1.17.6
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -155,13 +155,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637937432480000000
+  datePublishedTicks: 638009928240000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 14d129dcc778f8ea2fdf9d0240b47924e4f0dbb1
+    revision: 3744f24b80468ef1336fbc234c93625c4a6287b0
     path: 
   unityLifecycle:
     version: 1.17.2
@@ -836,9 +836,11 @@ m_ResolvedPackages:
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
+    - 1.7.2
     compatible:
     - 1.7.1
-    verified: 1.7.1
+    - 1.7.2
+    verified: 1.7.2
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
