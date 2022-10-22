@@ -123,9 +123,9 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"E:/Unity/Project/GroupProject-main/GroupProject/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"E:/Unity/Project/GroupProject-main/GroupProject/Library/PackageCache/com.unity.testtools.codecoverage@1.1.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"E:/Unity/Project/GroupProject-main/GroupProject/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"E:/Unity/Project/GroupProject/GroupProject/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"E:/Unity/Project/GroupProject/GroupProject/Library/PackageCache/com.unity.testtools.codecoverage@1.1.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"E:/Unity/Project/GroupProject/GroupProject/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"E:/Unity/Unity2021.3/2022.1.18f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"E:/Unity/Unity2021.3/2022.1.18f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"E:/Unity/Unity2021.3/2022.1.18f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -358,6 +358,17 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Resource/Unity UI Samples/Scripts/ActiveStateToggler.cs"
+"Assets/Resource/Unity UI Samples/Scripts/ApplicationManager.cs"
+"Assets/Resource/Unity UI Samples/Scripts/ChangeColor.cs"
+"Assets/Resource/Unity UI Samples/Scripts/DragMe.cs"
+"Assets/Resource/Unity UI Samples/Scripts/DragPanel.cs"
+"Assets/Resource/Unity UI Samples/Scripts/DropMe.cs"
+"Assets/Resource/Unity UI Samples/Scripts/PanelManager.cs"
+"Assets/Resource/Unity UI Samples/Scripts/ResizePanel.cs"
+"Assets/Resource/Unity UI Samples/Scripts/ScrollDetailTexture.cs"
+"Assets/Resource/Unity UI Samples/Scripts/ShowSliderValue.cs"
+"Assets/Resource/Unity UI Samples/Scripts/TiltWindow.cs"
 "Assets/Script/CameraControl.cs"
 "Assets/Script/PlayerMovement.cs"
 -langversion:9.0
