@@ -1,4 +1,0 @@
-repository "GroupProject@phenix7@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
