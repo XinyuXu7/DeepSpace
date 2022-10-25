@@ -387,6 +387,7 @@
 "Assets/Resource/up/FPS/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs"
 "Assets/Resource/up/FPS/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs"
 "Assets/Script/CameraControl.cs"
+"Assets/Script/MenuManager.cs"
 "Assets/Script/PlayerMovement.cs"
 "Assets/Script/WeaponControl.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
